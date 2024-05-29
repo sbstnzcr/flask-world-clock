@@ -1,0 +1,26 @@
+/* Custom styles to make the select background darker */
+.select2-container .select2-selection--single {
+    background-color: #1a202c;
+    border: 1px solid #4a5568;
+    color: white;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: white;
+}
+.select2-container--default .select2-results__option {
+    background-color: #1a202c;
+    color: white;
+}
+.select2-container--default .select2-results__option--highlighted {
+    background-color: #4a5568;
+    color: white;
+}
+.select2-dropdown {
+    background-color: #1a202c;
+    border: 1px solid #4a5568;
+}
+.select2-container--default .select2-search--dropdown .select2-search__field {
+    background-color: #2d3748;
+    color: white;
+    border: 1px solid #4a5568;
+}
