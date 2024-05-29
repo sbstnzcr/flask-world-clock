@@ -26,7 +26,7 @@ World Clock is a web application that allows users to view the current time in d
 2. Navigate into the project directory:
 
    ```bash
-   cd world-clock
+   cd flask-world-clock
    ```
 
 3. Install the required Python packages:
